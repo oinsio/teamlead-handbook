@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test mermaid.md",
+                "file": "docs/Практическое-применение.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test mermaid"
+              "title": "Практическое-применение"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test mermaid.md",
+                "file": "docs/Практическое-применение.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Test mermaid"
+              "title": "Обратные ссылки для Практическое-применение"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test mermaid.md",
+                "file": "docs/Практическое-применение.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Test mermaid"
+              "title": "Структура Практическое-применение"
             }
           },
           {
@@ -214,19 +214,22 @@
   },
   "active": "70bce08a4944ee15",
   "lastOpenFiles": [
+    "docs/Построение-отношений/index.md",
+    "docs/javascripts/index.md",
+    "docs/Основные-обязанности-тимлида.md",
+    "docs/Как-стать-тимлидом.md",
+    "docs/Почему-именно-Вас-сделали-тимлидом.md",
+    "docs/Роль-и-функции-руководителя/Функции-и-правила-руководителя.md",
+    "docs/index.md",
+    "Test mermaid.md",
+    "docs/Построение-отношений",
     "docs/Роль-и-функции-руководителя/Пирамида-управленческих-компетенций.md",
     "docs/Практическое-применение.md",
-    "docs/Основные-обязанности-тимлида.md",
     "TODO.md",
-    "docs/Роль-и-функции-руководителя/Функции-и-правила-руководителя.md",
-    "Test mermaid.md",
     "Без названия.canvas",
     "docs/Роль-и-функции-руководителя/В-чём-заключается-специфика-управления-человеческими-ресурсами.md",
     "docs/Роль-и-функции-руководителя/Типичные-ошибки-начинающего-руководителя.md",
     "docs/Роль-и-функции-руководителя/Что-отличает-эффективного-руководителя-от-неэффективного.md",
-    "docs/Почему-именно-Вас-сделали-тимлидом.md",
-    "docs/Как-стать-тимлидом.md",
-    "docs/index.md",
     "obsidian-nav-weight/styles.css",
     "obsidian-nav-weight/manifest.json",
     "obsidian-nav-weight/main.js",
@@ -246,9 +249,7 @@
     "docs/Features/Text Formatting.md",
     "docs/Features/Mermaid Diagrams.md",
     "docs/Features/LaTeX Math Support.md",
-    "docs/javascripts",
     "Note 1.md",
-    "Делегирование.md",
-    "Обязанности тимлида.md"
+    "Делегирование.md"
   ]
 }

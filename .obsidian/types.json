@@ -3,6 +3,7 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "weight": "number"
+    "weight": "number",
+    "empty": "checkbox"
   }
 }
