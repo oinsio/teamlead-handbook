@@ -4,7 +4,7 @@ theme:
     name: 'material'
     language: ru
     palette:
-	
+
 	- media: "(prefers-color-scheme)"
 	  toggle:
 	    icon: material/theme-light-dark
