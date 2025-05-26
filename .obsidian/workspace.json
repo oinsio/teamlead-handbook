@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Практическое-применение.md",
+                "file": "docs/Построение-отношений/Модели-отношений.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Практическое-применение"
+              "title": "Модели-отношений"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5
+    "width": 293.5
   },
   "right": {
     "id": "e7cdaf9deb94bc82",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Практическое-применение.md",
+                "file": "docs/Построение-отношений/Модели-отношений.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Практическое-применение"
+              "title": "Обратные ссылки для Модели-отношений"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Практическое-применение.md",
+                "file": "docs/Построение-отношений/Модели-отношений.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Практическое-применение"
+              "title": "Структура Модели-отношений"
             }
           },
           {
@@ -191,7 +191,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -212,19 +213,25 @@
       "nav-weight:Nav Weight: click to disable": false
     }
   },
-  "active": "70bce08a4944ee15",
+  "active": "8e36fd31b113f200",
   "lastOpenFiles": [
-    "docs/Построение-отношений/index.md",
-    "docs/javascripts/index.md",
-    "docs/Основные-обязанности-тимлида.md",
-    "docs/Как-стать-тимлидом.md",
-    "docs/Почему-именно-Вас-сделали-тимлидом.md",
     "docs/Роль-и-функции-руководителя/Функции-и-правила-руководителя.md",
+    "docs/Построение-отношений/Модели-отношений.md",
+    "docs/javascripts/index.md",
+    "docs/Почему-именно-Вас-сделали-тимлидом.md",
+    "docs/Как-стать-тимлидом.md",
     "docs/index.md",
+    "docs/Построение-отношений/Я-начальник-ты-дурак.md",
+    "docs/Построение-отношений/Как-изменить-модель-отношений-с-подчинёнными.md",
+    "docs/Построение-отношений/Технологичное-лидерство.md",
+    "docs/Построение-отношений/Лидер-и-команда.md",
+    "docs/Построение-отношений/Детский-сад.md",
+    "docs/Практическое-применение.md",
+    "docs/Построение-отношений/index.md",
+    "docs/Основные-обязанности-тимлида.md",
     "Test mermaid.md",
     "docs/Построение-отношений",
     "docs/Роль-и-функции-руководителя/Пирамида-управленческих-компетенций.md",
-    "docs/Практическое-применение.md",
     "TODO.md",
     "Без названия.canvas",
     "docs/Роль-и-функции-руководителя/В-чём-заключается-специфика-управления-человеческими-ресурсами.md",
@@ -244,12 +251,6 @@
     "docs/Topic",
     "docs/blog/posts/hello-world.md",
     "docs/javascripts/mathjax.js",
-    "docs/blog/posts",
-    "docs/blog/index.md",
-    "docs/Features/Text Formatting.md",
-    "docs/Features/Mermaid Diagrams.md",
-    "docs/Features/LaTeX Math Support.md",
-    "Note 1.md",
-    "Делегирование.md"
+    "docs/blog/posts"
   ]
 }
