@@ -4,6 +4,11 @@ theme:
     name: 'material'
     language: ru
     palette:
+	
+	- media: "(prefers-color-scheme)"
+	  toggle:
+	    icon: material/theme-light-dark
+	    name: Switch to light mode
 
     # Light mode
     - media: "(prefers-color-scheme: light)"
