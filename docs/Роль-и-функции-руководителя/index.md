@@ -1,5 +1,5 @@
 ---
-empty: true
+empty: false
 weight: -7
 ---
 # Адаптация к роли руководителя
