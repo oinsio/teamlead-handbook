@@ -72,5 +72,5 @@ extra:
   generator: false
   social:
     - icon: fontawesome/brands/github
-    link: https://github.com/oinsio/teamlead-handbook
-    #name: teamlead-handbook on github
+      link: https://github.com/oinsio/teamlead-handbook
+      #name: teamlead-handbook on github
