@@ -3,6 +3,8 @@ site_name: Руководство тимлида - Teamlead Handbook
 theme:
     name: 'material'
     language: ru
+    features:
+        - navigation.footer
     palette:
 
     - media: "(prefers-color-scheme)"
