@@ -45,13 +45,15 @@ markdown_extensions:
       custom_fences:
         - name: mermaid
           class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
+          #format: !!python/name:pymdownx.superfences.fence_code_format
+          format: !!python/name:mermaid2.fence_mermaid_custom
 
   - toc:
       permalink: true
 
 plugins:
   - search
+  - mermaid2
   - roamlinks
   - mkdocs-nav-weight:
       section_renamed: false
