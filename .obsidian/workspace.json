@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 339.5,
+    "collapsed": true
   },
   "right": {
     "id": "e7cdaf9deb94bc82",
@@ -192,7 +193,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -213,7 +214,7 @@
       "nav-weight:Nav Weight: click to disable": false
     }
   },
-  "active": "dd6dff34a3b8921e",
+  "active": "dae7c37d143bf319",
   "lastOpenFiles": [
     "docs/Ответственность/Что-такое-ответственность.md",
     "docs/Построение-отношений/Я-начальник-ты-дурак.md",
