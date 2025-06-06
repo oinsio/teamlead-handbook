@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Ответственность/Как-уходят-от-ответственности.md",
+                "file": "docs/Ответственность/Как-распределять-ответственность.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Как-уходят-от-ответственности"
+              "title": "Как-распределять-ответственность"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 339.5,
+    "collapsed": true
   },
   "right": {
     "id": "e7cdaf9deb94bc82",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Ответственность/Как-уходят-от-ответственности.md",
+                "file": "docs/Ответственность/Как-распределять-ответственность.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Как-уходят-от-ответственности"
+              "title": "Обратные ссылки для Как-распределять-ответственность"
             }
           },
           {
@@ -142,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Ответственность/Как-уходят-от-ответственности.md",
+                "file": "docs/Ответственность/Как-распределять-ответственность.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Как-уходят-от-ответственности"
+              "title": "Структура Как-распределять-ответственность"
             }
           },
           {
@@ -192,7 +193,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -213,10 +214,11 @@
       "nav-weight:Nav Weight: click to disable": false
     }
   },
-  "active": "dd6dff34a3b8921e",
+  "active": "dae7c37d143bf319",
   "lastOpenFiles": [
-    "docs/Управленческие инструменты/Метод-слабых-сигналов.md",
     "docs/Ответственность/Как-уходят-от-ответственности.md",
+    "docs/Ответственность/Как-распределять-ответственность.md",
+    "docs/Управленческие инструменты/Метод-слабых-сигналов.md",
     "docs/Управленческие инструменты/index.md",
     "docs/Список-полезных-книг.md",
     "docs/Управленческие инструменты",
@@ -243,7 +245,6 @@
     "docs/index.md",
     "docs/Основные-обязанности-тимлида.md",
     "docs/Почему-именно-Вас-сделали-тимлидом.md",
-    "docs/Как-стать-тимлидом.md",
     "docs/Построение-отношений",
     "Без названия.canvas",
     "obsidian-nav-weight/styles.css",
