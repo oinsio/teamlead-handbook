@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Постановка задач/Что-значит-правильно-ставить-задачи.md",
+                "file": "docs/Постановка задач/User-Story.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Что-значит-правильно-ставить-задачи"
+              "title": "User-Story"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5,
-    "collapsed": true
+    "width": 304.5
   },
   "right": {
     "id": "e7cdaf9deb94bc82",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Постановка задач/Что-значит-правильно-ставить-задачи.md",
+                "file": "docs/Постановка задач/User-Story.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Что-значит-правильно-ставить-задачи"
+              "title": "Обратные ссылки для User-Story"
             }
           },
           {
@@ -143,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Постановка задач/Что-значит-правильно-ставить-задачи.md",
+                "file": "docs/Постановка задач/User-Story.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Что-значит-правильно-ставить-задачи"
+              "title": "Структура User-Story"
             }
           },
           {
@@ -216,9 +215,12 @@
   },
   "active": "dd6dff34a3b8921e",
   "lastOpenFiles": [
+    "docs/Контроль/Контроль.md",
+    "docs/Постановка задач/User-Story.md",
+    "docs/Постановка задач/Домик-Адизеса.md",
+    "docs/Постановка задач/S.M.A.R.T..md",
     "docs/Постановка задач/Обратная-связь-при-постановке-задач.md",
     "docs/Постановка задач/Что-значит-правильно-ставить-задачи.md",
-    "docs/Контроль/Контроль.md",
     "docs/Практическое-применение.md",
     "docs/Управленческие инструменты/index.md",
     "docs/Список-полезных-книг.md",
@@ -244,9 +246,6 @@
     "docs/Построение-отношений/index.md",
     "docs/Ответственность",
     "docs/Построение-отношений/Как-подобрать-правильный-стиль-управления.md",
-    "docs/Построение-отношений/Как-изменить-модель-отношений-с-подчинёнными.md",
-    "docs/Построение-отношений/Технологичное-лидерство.md",
-    "docs/Построение-отношений/Лидер-и-команда.md",
     "docs/Построение-отношений",
     "Без названия.canvas",
     "obsidian-nav-weight/styles.css",
