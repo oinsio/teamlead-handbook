@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Контроль/Точки-контроля.md",
+                "file": "docs/Обратная-связь/Обратная-связь.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Точки-контроля"
+              "title": "Обратная-связь"
             }
           }
         ],
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5,
-    "collapsed": true
+    "width": 304.5
   },
   "right": {
     "id": "e7cdaf9deb94bc82",
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Контроль/Точки-контроля.md",
+                "file": "docs/Обратная-связь/Обратная-связь.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Точки-контроля"
+              "title": "Обратные ссылки для Обратная-связь"
             }
           },
           {
@@ -158,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Контроль/Точки-контроля.md",
+                "file": "docs/Обратная-связь/Обратная-связь.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Точки-контроля"
+              "title": "Структура Обратная-связь"
             }
           },
           {
@@ -231,13 +230,17 @@
   },
   "active": "f067db12978e2046",
   "lastOpenFiles": [
-    "TODO.md",
+    "docs/Обратная-связь/index.md",
+    "docs/Ответственность/index.md",
+    "docs/Контроль/index.md",
+    "docs/Обратная-связь/Обратная-связь.md",
     "docs/Контроль/Точки-контроля.md",
+    "docs/Обратная-связь",
+    "TODO.md",
     "docs/Постановка задач/Что-значит-правильно-ставить-задачи.md",
     "Постановка-задач.md",
     "docs/Роль-и-функции-руководителя/Функции-и-правила-руководителя.md",
     "docs/Контроль/Контроль.md",
-    "docs/Контроль/index.md",
     "docs/Построение-отношений/Ситуативное-лидерство.md",
     "docs/Постановка задач/User-Story.md",
     "docs/Постановка задач/Домик-Адизеса.md",
@@ -249,7 +252,6 @@
     "docs/Постановка задач/index.md",
     "docs/Контроль",
     "docs/Построение-отношений/Модели-отношений.md",
-    "docs/Ответственность/index.md",
     "docs/Ответственность/Как-бороться-с-безответственностью.md",
     "docs/Постановка задач",
     "docs/Ответственность/Как-стимулировать-желание-брать-на-себя-ответственность.md",
@@ -257,8 +259,6 @@
     "docs/Управленческие инструменты/Метод-слабых-сигналов.md",
     "docs/Ответственность/Что-такое-ответственность.md",
     "docs/Ответственность/Как-распределять-ответственность.md",
-    "docs/Как-стать-тимлидом.md",
-    "docs/Почему-именно-Вас-сделали-тимлидом.md",
     "docs/Управленческие инструменты",
     "ChatGPT Image 3 июня 2025 г., 22_55_35.png",
     "docs/Ответственность",
@@ -267,7 +267,6 @@
     "obsidian-nav-weight/styles.css",
     "obsidian-nav-weight/manifest.json",
     "obsidian-nav-weight/main.js",
-    "obsidian-nav-weight",
-    "docs/Роль-и-функции-руководителя"
+    "obsidian-nav-weight"
   ]
 }
