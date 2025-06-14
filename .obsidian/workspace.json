@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Обратная-связь/Практическая-работа.md",
+                "file": "docs/Основные-обязанности-тимлида.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Практическая-работа"
+              "title": "Основные-обязанности-тимлида"
             }
           }
         ],
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5,
-    "collapsed": true
+    "width": 304.5
   },
   "right": {
     "id": "e7cdaf9deb94bc82",
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Обратная-связь/Обратная-связь.md",
+                "file": "docs/Основные-обязанности-тимлида.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Обратная-связь"
+              "title": "Обратные ссылки для Основные-обязанности-тимлида"
             }
           },
           {
@@ -168,16 +167,6 @@
             }
           },
           {
-            "id": "24aa67536f96d5b0",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
             "id": "6d36e8cb413e4b24",
             "type": "leaf",
             "state": {
@@ -208,11 +197,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 307.5
+    "width": 302.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,17 +218,21 @@
       "nav-weight:Nav Weight: click to disable": false
     }
   },
-  "active": "7dcafe957f6a74ee",
+  "active": "f067db12978e2046",
   "lastOpenFiles": [
-    "docs/Обратная-связь/Позитивные-фразы-для-обратной-связи.md",
+    "docs/Взаимодействие с HR отделом/Взаимодействие-с-HR-отделом.md",
+    "docs/Основные-обязанности-тимлида.md",
+    "docs/Взаимодействие с HR отделом/index.md",
+    "docs/Взаимодействие с HR отделом",
+    "TODO.md",
     "docs/Обратная-связь/Практическая-работа.md",
+    "docs/Обратная-связь/Позитивные-фразы-для-обратной-связи.md",
     "docs/Обратная-связь/Обратная-связь.md",
     "docs/Обратная-связь/index.md",
     "docs/Ответственность/index.md",
     "docs/Контроль/index.md",
     "docs/Контроль/Точки-контроля.md",
     "docs/Обратная-связь",
-    "TODO.md",
     "docs/Постановка задач/Что-значит-правильно-ставить-задачи.md",
     "Постановка-задач.md",
     "docs/Роль-и-функции-руководителя/Функции-и-правила-руководителя.md",
@@ -257,9 +250,6 @@
     "docs/Построение-отношений/Модели-отношений.md",
     "docs/Ответственность/Как-бороться-с-безответственностью.md",
     "docs/Постановка задач",
-    "docs/Ответственность/Как-стимулировать-желание-брать-на-себя-ответственность.md",
-    "docs/Ответственность/Как-уходят-от-ответственности.md",
-    "docs/Управленческие инструменты/Метод-слабых-сигналов.md",
     "docs/Управленческие инструменты",
     "ChatGPT Image 3 июня 2025 г., 22_55_35.png",
     "docs/Ответственность",
@@ -267,7 +257,6 @@
     "Без названия.canvas",
     "obsidian-nav-weight/styles.css",
     "obsidian-nav-weight/manifest.json",
-    "obsidian-nav-weight/main.js",
-    "obsidian-nav-weight"
+    "obsidian-nav-weight/main.js"
   ]
 }
