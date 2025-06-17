@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Постановка-задач/Домик-Адизеса.md",
+                "file": "docs/Постановка-задач/Story.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Домик-Адизеса"
+              "title": "Story"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Постановка-задач/Домик-Адизеса.md",
+                "file": "docs/Постановка-задач/Story.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Домик-Адизеса"
+              "title": "Обратные ссылки для Story"
             }
           },
           {
@@ -219,9 +219,9 @@
   },
   "active": "dd6dff34a3b8921e",
   "lastOpenFiles": [
+    "docs/Постановка-задач/Домик-Адизеса.md",
     "docs/Постановка-задач/Story.md",
     "docs/Практическое-применение.md",
-    "docs/Постановка-задач/Домик-Адизеса.md",
     "docs/Основные-обязанности-тимлида.md",
     "docs/Роль-и-функции-руководителя/Функции-и-правила-руководителя.md",
     "docs/Построение-отношений/Ситуативное-лидерство.md",
