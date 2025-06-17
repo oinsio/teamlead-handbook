@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Постановка-задач/Story.md",
+                "file": "docs/Постановка-задач/Definition-of-Done.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Story"
+              "title": "Definition-of-Done"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Постановка-задач/Story.md",
+                "file": "docs/Постановка-задач/Definition-of-Done.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Story"
+              "title": "Обратные ссылки для Definition-of-Done"
             }
           },
           {
@@ -219,8 +219,11 @@
   },
   "active": "dd6dff34a3b8921e",
   "lastOpenFiles": [
-    "docs/Постановка-задач/Домик-Адизеса.md",
+    "docs/Постановка-задач/Definition-of-Ready.md",
+    "docs/Постановка-задач/S.M.A.R.T..md",
+    "docs/Постановка-задач/Definition-of-Done.md",
     "docs/Постановка-задач/Story.md",
+    "docs/Постановка-задач/Домик-Адизеса.md",
     "docs/Практическое-применение.md",
     "docs/Основные-обязанности-тимлида.md",
     "docs/Роль-и-функции-руководителя/Функции-и-правила-руководителя.md",
@@ -234,7 +237,6 @@
     "docs/Взаимодействие-с-HR-отделом/Взаимодействие-с-HR-отделом.md",
     "Test mermaid.md",
     "TODO.md",
-    "docs/Постановка-задач/S.M.A.R.T..md",
     "docs/Взаимодействие-с-HR-отделом/index.md",
     "docs/Взаимодействие-с-HR-отделом",
     "docs/Обратная-связь/Практическая-работа.md",
@@ -249,8 +251,6 @@
     "Постановка-задач.md",
     "docs/Контроль/Контроль.md",
     "docs/Постановка-задач/Обратная-связь-при-постановке-задач.md",
-    "docs/Управленческие-инструменты/index.md",
-    "docs/Список-полезных-книг.md",
     "docs/Контроль",
     "docs/Постановка-задач",
     "docs/Управленческие-инструменты",
