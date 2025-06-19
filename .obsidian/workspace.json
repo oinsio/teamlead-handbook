@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "docs/Роль-и-функции-руководителя/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "index"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "docs/Роль-и-функции-руководителя/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для TODO"
+              "title": "Обратные ссылки для index"
             }
           },
           {
@@ -220,6 +220,8 @@
   },
   "active": "f067db12978e2046",
   "lastOpenFiles": [
+    "docs/Как-стать-тимлидом.md",
+    "TODO.md",
     "Test mermaid.md",
     "README.md",
     "docs/Список-полезных-книг.md",
@@ -244,8 +246,6 @@
     "docs/Постановка-задач/Story.md",
     "docs/Постановка-задач/Домик-Адизеса.md",
     "docs/Постановка-задач/S.M.A.R.T..md",
-    "docs/Постановка-задач/Обратная-связь-при-постановке-задач.md",
-    "docs/Постановка-задач/Что-значит-правильно-ставить-задачи.md",
     "docs/Решение-конфликтов",
     "docs/stylesheets/mermaid.css",
     "mermaid.css",
