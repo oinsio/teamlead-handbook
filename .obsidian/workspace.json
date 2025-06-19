@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Постановка-задач/Story.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Story"
+              "title": "index"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Постановка-задач/Story.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Story"
+              "title": "Обратные ссылки для index"
             }
           },
           {
@@ -220,6 +220,7 @@
   },
   "active": "f067db12978e2046",
   "lastOpenFiles": [
+    "docs/Постановка-задач/Story.md",
     "docs/Построение-отношений/Как-выстроить-отношения-со-смежными-подразделениями.md",
     "docs/Построение-отношений/Как-выстроить-отношения-с-вышестоящим-руководителем.md",
     "docs/Построение-отношений/Модели-отношений.md",
@@ -244,7 +245,6 @@
     "docs/Постановка-задач/Definition-of-Done.md",
     "docs/Постановка-задач/Definition-of-Ready.md",
     "docs/Постановка-задач/S.M.A.R.T..md",
-    "docs/Постановка-задач/Story.md",
     "docs/Постановка-задач/Домик-Адизеса.md",
     "docs/Практическое-применение.md",
     "docs/stylesheets/mermaid.css",
