@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Постановка-задач/Definition-of-Done.md",
+                "file": "docs/Постановка-задач/S.M.A.R.T..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Definition-of-Done"
+              "title": "S.M.A.R.T."
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Постановка-задач/Definition-of-Done.md",
+                "file": "docs/Постановка-задач/S.M.A.R.T..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Definition-of-Done"
+              "title": "Обратные ссылки для S.M.A.R.T."
             }
           },
           {
@@ -196,8 +196,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -220,11 +219,12 @@
   },
   "active": "f067db12978e2046",
   "lastOpenFiles": [
-    "docs/Постановка-задач/Definition-of-Ready.md",
+    "TODO.md",
     "docs/Постановка-задач/Definition-of-Done.md",
-    "docs/Постановка-задач/S.M.A.R.T..md",
+    "docs/Постановка-задач/Definition-of-Ready.md",
     "docs/Постановка-задач/Story.md",
     "docs/Постановка-задач/Домик-Адизеса.md",
+    "docs/Постановка-задач/S.M.A.R.T..md",
     "docs/Постановка-задач/Обратная-связь-при-постановке-задач.md",
     "docs/Постановка-задач/Что-значит-правильно-ставить-задачи.md",
     "docs/Постановка-задач/index.md",
@@ -245,7 +245,6 @@
     "docs/Построение-отношений/Я-начальник-ты-дурак.md",
     "docs/Построение-отношений/Модели-отношений.md",
     "docs/Построение-отношений/index.md",
-    "docs/Роль-и-функции-руководителя/В-чём-заключается-специфика-управления-человеческими-ресурсами.md",
     "docs/Решение-конфликтов",
     "docs/stylesheets/mermaid.css",
     "mermaid.css",
