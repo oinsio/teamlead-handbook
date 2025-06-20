@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Постановка-задач/Definition-of-Ready.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Definition-of-Ready"
+              "title": "index"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Постановка-задач/Definition-of-Ready.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Definition-of-Ready"
+              "title": "Обратные ссылки для index"
             }
           },
           {
@@ -219,10 +219,11 @@
   },
   "active": "f067db12978e2046",
   "lastOpenFiles": [
-    "docs/Постановка-задач/S.M.A.R.T..md",
+    "docs/Решение-конфликтов/index.md",
     "TODO.md",
-    "docs/Постановка-задач/Definition-of-Done.md",
     "docs/Постановка-задач/Definition-of-Ready.md",
+    "docs/Постановка-задач/S.M.A.R.T..md",
+    "docs/Постановка-задач/Definition-of-Done.md",
     "docs/Постановка-задач/Story.md",
     "docs/Постановка-задач/Домик-Адизеса.md",
     "docs/Постановка-задач/Обратная-связь-при-постановке-задач.md",
@@ -244,7 +245,6 @@
     "docs/Построение-отношений/Детский-сад.md",
     "docs/Построение-отношений/Я-начальник-ты-дурак.md",
     "docs/Построение-отношений/Модели-отношений.md",
-    "docs/Построение-отношений/index.md",
     "docs/Решение-конфликтов",
     "docs/stylesheets/mermaid.css",
     "mermaid.css",
