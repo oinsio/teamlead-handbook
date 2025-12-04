@@ -43,17 +43,18 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
-  - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
-
+#  - pymdownx.superfences:
+#      custom_fences:
+#        - name: mermaid
+#          class: mermaid
+#          format: !!python/name:pymdownx.superfences.fence_code_format
   - toc:
       permalink: true
 
 plugins:
   - search
+  - mermaid2:
+      version: 10.0.2
   - roamlinks
   - mkdocs-nav-weight:
       section_renamed: false
@@ -66,10 +67,10 @@ extra_javascript:
   - javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-  - https://unpkg.com/mermaid/dist/mermaid.min.js
+#  - https://unpkg.com/mermaid/dist/mermaid.min.js
 
-extra_css:
-  - stylesheets/mermaid.css
+#extra_css:
+#  - stylesheets/mermaid.css
 
 extra:
   generator: false
